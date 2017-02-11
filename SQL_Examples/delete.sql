@@ -1,0 +1,1 @@
+delete table employee where emp_id=100;
